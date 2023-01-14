@@ -1,0 +1,43 @@
+$ git log
+commit d75d98ca4aebc2917acb930f3d765ea57f286490 (HEAD -> master)
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:21:35 2023 +0530
+
+    sixth commit in spider branch
+
+commit e5309b2569fb8823d2c5d1bf2c24b914b4c2a8f3
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:17:58 2023 +0530
+
+    fifth commit in spider branch
+
+commit c85385d92aafe5a1e251cf66e50953fc5087b334
+Merge: 3101878 ddf54ef
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:12:20 2023 +0530
+
+    add some work Merge branch 'Develop'
+
+commit ddf54ef7363bda17029e9d0e31a21612435b7a26
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:10:51 2023 +0530
+
+    fourth commit in develop branch
+
+commit 31018786faf8abfda4048114c6645e208ed7af32
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:07:18 2023 +0530
+
+    third commit in master branch
+
+commit 10ec71d3af1072cf60701ea5749de07ec898c343
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 15:04:01 2023 +0530
+
+    second commit in develop branch
+
+commit 03fd1b7769bf38e8d728557b3291a7c27e3516de
+Author: Aachal <aachaldhote5@gmail.com>
+Date:   Sat Jan 14 14:59:03 2023 +0530
+
+    Initial commit
